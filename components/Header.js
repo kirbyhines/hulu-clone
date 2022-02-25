@@ -1,4 +1,5 @@
 /** @format */
+/* eslint-disable */
 
 import next from 'next';
 import React from 'react';
