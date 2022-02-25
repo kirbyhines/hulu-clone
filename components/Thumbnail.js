@@ -1,4 +1,5 @@
 /** @format */
+/* eslint-disable */
 import Image from 'next/image';
 import React from 'react';
 import { ThumbUpIcon } from '@heroicons/react/outline';

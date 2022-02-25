@@ -1,5 +1,5 @@
 /** @format */
-
+/* eslint-disable */
 import React from 'react';
 import requests from '../utlis/requests';
 import { useRouter } from 'next/router';
